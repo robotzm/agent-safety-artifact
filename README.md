@@ -8,7 +8,7 @@ does not yet contain a benchmark release or evaluated results.
 
 ## Project website
 
-Open the [anonymous project website](https://anonymous.4open.science/w/agent-safety-benchmark-880C/) for the overview and available materials.
+Open the [anonymous project website](https://anonymous.4open.science/w/agent-safety-benchmark-880C/index.html) for the overview and available materials.
 Browse the [anonymous repository](https://anonymous.4open.science/r/agent-safety-benchmark-880C/) for all files.
 The website uses local assets and relative links so it can be served from a GitHub
 Pages project path or another static hosting path.
