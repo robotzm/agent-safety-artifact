@@ -1,4 +1,4 @@
-# Agent Safety Benchmark
+# HISafe
 
 **Anonymous authors**
 
